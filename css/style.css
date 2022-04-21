@@ -157,6 +157,7 @@ input[type="password"] {
   .wrapper {
     width: 100%;
     padding: 30px 20px;
+    border: 1px solid #e1e1e1;
   }
 
   .header-text p {
@@ -166,6 +167,7 @@ input[type="password"] {
   .input-field {
     padding: 12px 20px;
     margin-bottom: 15px;
+    border: 1px solid #c2c2c2;
   }
 
   .input-label {
